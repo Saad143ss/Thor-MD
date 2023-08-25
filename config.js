@@ -4,16 +4,16 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 //═══════[Required Variables]════════\\
 global.owner = process.env.OWNER_NUMBER.split(",")
-global.mongodb = process.env.MONGODB_URI || "mongodb+srv://sam:sam@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority"
+global.mongodb = process.env.MONGODB_URI || "mongodb+srv://thor:thor@cluster0.u1smxsv.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
-global.email = 'sam@secktor.live'
-global.github = 'https://github.com/SamPandey001/Secktor-Md'
-global.location = 'Sultanpur IN'
-global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || '919628516236'
-global.devs = '919628516236';
-global.website = 'https://github.com/SamPandey001/Secktor-Md' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
+global.email = 'textnow1pak@gmail.com'
+global.github = 'https://github.com/Saad143ss/Thor-MD'
+global.location = 'Multan Pakistan'
+global.gurl = 'https://youtube.com/@saadibrahim_900' // add your username
+global.sudo = process.env.SUDO || '923156157942'
+global.devs = '923156157942';
+global.website = 'https://github.com/Saad143ss/Thor-MD' //wa.me/+91000000000000
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/JsAWXBl.jpeg'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? '𝐒𝐞𝐜𝐤𝐭𝐨𝐫 𝐁𝐨𝐭𝐭𝐨' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'SamPandey001' : process.env.OWNER_NAME,
