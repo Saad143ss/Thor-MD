@@ -3,9 +3,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Secktor-Md
- * @author : SamPandey001 <https://github.com/SamPandey001>
- * @description : Secktor,A Multi-functional whatsapp bot.
+ * @project_name : Thor-MD
+ * @author : Saad143ss <https://github.com/Saad143ss>
+ * @description : Thor,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -91,7 +91,7 @@ cmd({
         citel.reply(`*Check your Pm ${tlang().greet}*`);
         await Void.sendMessage(`${citel.sender}`, {
             image: log0,
-            caption: `*Group Name: Secktor-Support*\n*Group Link:* https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbC`,
+            caption: `*Group Name: Thor-Support*\n*Group Link:* https://chat.whatsapp.com/Fd08osh2TvX9WekceXUfuz`,
         });
 
     }
