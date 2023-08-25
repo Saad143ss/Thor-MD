@@ -5,7 +5,7 @@
  It is supplied in the hope that it may be useful.
  * @project_name : Thor-MD
  * @author : Saad143ss <https://github.com/Saad143ss>
- * @description : Secktor,A Multi-functional whatsapp bot.
+ * @description : Thor,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 const axios = require('axios');
