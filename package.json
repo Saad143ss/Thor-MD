@@ -1,15 +1,15 @@
 {
-               "name": "secktor-md",
-               "version": "0.0.7",
-               "description": "Multi device whatsapp bot by SamPandey001.",
+               "name": "Thor-MD",
+               "version": "1.0.2",
+               "description": "Multi device whatsapp bot by Saad Ibrahim.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name secktor",
-                "stop": "pm2 stop secktor"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name Thor",
+                "stop": "pm2 stop Thot"
                 },
-               "author": "SamPandey001",
+               "author": "SaadIbrahim",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -68,10 +68,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/SamPandey001/Secktor-Md.git"
+                 "url": "git+https://github.com/Saad143ss/Thor-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/SamPandey001/Secktor-Md/issues"
+                 "url": "https://github.com/Saad143ss/Thor-MD/issues"
                   },
-                 "homepage": "https://github.com/SamPandey001/Secktor-Md#readme"
+                 "homepage": "https://github.com/Saad143ss/Thor-MD#readme"
                   }
