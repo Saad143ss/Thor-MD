@@ -140,7 +140,7 @@ _*🍁 Repo:* https://github.com/Saad143ss/Thor-MD*_
 
 _*Support Group:* https://chat.whatsapp.com/Fd08osh2TvX9WekceXUfuz_
 
-_*Scan Qr:* https://replit.com/@a=1_
+_*Scan Qr:* https://replit.com/@naveeddogar/Thor-MD-QR?v=1_
 
 _*Beta Test Group:* https://chat.whatsapp.com/Fd08osh2TvX9WekceXUfuz_
 
