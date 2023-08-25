@@ -11,12 +11,11 @@
   <a href="https://chat.whatsapp.com/Fd08osh2TvX9WekceXUfuz" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a aria-label="Thor_MD is free for use" href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE" target="_blank">
+  <a aria-label="Thor_MD is free for use" href="https://github.com/Saad143ss/Thor-MD/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
-    <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
-  </a>
+
+
 
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Saad143ss}/count.svg" alt="Saad143ss :: Visitor's Count" /></p>
