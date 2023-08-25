@@ -1,6 +1,7 @@
  <h1 align="center"> Thor-MD Whatapp Bot</h1> 
 
-
+<p align="center">
+  <a href="https://chat.whatsapp.com/Fd08osh2TvX9WekceXUfuz">
     <img alt="Thor docs" height="300" src="https://telegra.ph/file/32af08151098f5785efed.jpg">
   </a>
 </p>
