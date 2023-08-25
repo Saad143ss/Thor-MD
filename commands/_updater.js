@@ -4,8 +4,8 @@
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
  * @project_name : Thor-MD
- * @author : S <https://github.com/SamPandey001>
- * @description : Secktor,A Multi-functional whatsapp bot.
+ * @author : Saad143ss <https://github.com/Saad143ss>
+ * @description : Thor,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
