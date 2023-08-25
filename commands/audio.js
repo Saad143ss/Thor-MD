@@ -3,9 +3,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : XLICON-MD
- * @author : @SuhailTechInfo <https://github.com/SuhailTechInfo>
- * @description : XLICON, A Multi-functional whatsapp bot.
+ * @project_name : Thor-MD
+ * @author : @Saad143ss <https://github.com/Saad143ss>
+ * @description : Thor, A Multi-functional whatsapp bot.
  **/
 
 const { tlang, ffmpeg,cmd } = require('../lib')
