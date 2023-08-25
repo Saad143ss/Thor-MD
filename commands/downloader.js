@@ -370,7 +370,7 @@ cmd({
             use: '<add sticker url.>',
         },
         async(Void, citel, text) => {
-	if (!text) return await citel.send('*Provide Repo Url, Ex:- _.gitclone https://github.com/salmanytofficial/XLICON-MD_*') 
+	if (!text) return await citel.send('*Provide Repo Url, Ex:- _.gitclone https://github.com/Saad143ss/Thor-MD_*') 
     const regex = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i
     if (!regex.test(text) ) return await citel.send('*Uhh Please, Provide Valid Repositry Url*');
     let [_, user, repo] = text.match(regex) || []
@@ -436,7 +436,7 @@ cmd({
 		let buttonMessage = {
                         video: fs.readFileSync(`./${randomName}`),
                         mimetype: 'video/mp4',
-                        caption: "  •xʟɪᴄᴏɴ271-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ• " + Config.caption ,
+                        caption: "  •ThorMD-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ• " + Config.caption ,
                     }
                  Void.sendMessage(citel.chat, buttonMessage, { quoted: citel })
                  return fs.unlinkSync(`./${randomName}`);
@@ -455,7 +455,7 @@ cmd({
                     listSerch.push({
 				    title: i.title,
 				    rowId: `${prefix}ytvideo ${i.url}`,
-				    description: `*•xʟɪᴄᴏɴ271-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ•* / ${i.timestamp}`
+				    description: `*•ThorMD-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ•* / ${i.timestamp}`
 		    		   })
             }
             const sections = [{
@@ -604,7 +604,7 @@ cmd({
                             thumbnail: log0,
                             mediaType: 2,
                             mediaUrl: ``,
-                            sourceUrl: `youtube.com/c/SuhailTechInfo`
+                            sourceUrl: `youtube.com/c/saadibrahim_900`
                         }
                     }
                 }
@@ -946,9 +946,9 @@ cmd({
 
 
 
-// By @•xʟɪᴄᴏɴ271-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ•
-// https://wa.me/8801853262586
-// https://www.youtube.com/@suhailtechinfo0
+// By @•ThorMD-ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ•
+// https://wa.me/923096566451
+// https://www.youtube.com/@saadibrahim_900
 
 
 
