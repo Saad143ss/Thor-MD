@@ -3,9 +3,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : XLICON-MD
- * @author : salmanytofficial <https://github.com/salmanytofficial>
- * @description : XLICON, A Multi-functional whatsapp bot.
+ * @project_name : Thor-MD
+ * @author : Saad143ss <https://github.com/Saad143ss>
+ * @description : Thor, A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -25,7 +25,7 @@ cmd({
     },
     async(Void, citel) => {
         if(!citel.quoted) return citel.reply('Please quote any text to get link.')
-        let data = await pastebin.createPaste(citel.quoted.text, "XLICON-Pastebin")
+        let data = await pastebin.createPaste(citel.quoted.text, "Thor-Pastebin")
         citel.reply('_Here is your link._\n'+data)
     }
 );
@@ -37,7 +37,7 @@ cmd({
     alias :['gpt'],
     desc: "chat with an AI(GPT)",
     category: "AI",
-    use: '<Hii,Xlicon>',
+    use: '<Hii,Thor>',
     filename: __filename,
 },
 async(Void, citel,text) => {
@@ -132,17 +132,17 @@ cmd({
         filename: __filename,
     },
     async(Void, citel) => {
-        let { data } = await axios.get('https://api.github.com/repos/salmanytofficial/XLICON-MD')
+        let { data } = await axios.get('https://api.github.com/repos/Saad143ss/Thor-MD')
         let cap = `Hey ${citel.pushName}\n
 *⭐ Total Stars:* ${data.stargazers_count} stars
 *🍽️ Forks:* ${data.forks_count} forks
-_*🍁 Repo:* https://github.com/salmanytofficial/XLICON-MD*_
+_*🍁 Repo:* https://github.com/Saad143ss/Thor-MD*_
 
-_*Support Group:* https://chat.whatsapp.com/ESB8e9HAS2wGlwBvzGYnLx_
+_*Support Group:* https://chat.whatsapp.com/Fd08osh2TvX9WekceXUfuz_
 
-_*Scan Qr:* https://replit.com/@ahil15/XLICON-MD-QR-V4?v=1_
+_*Scan Qr:* https://replit.com/@a=1_
 
-_*Beta Test Group:* https://chat.whatsapp.com/H4kNueBuggV8PKQrgewSD7_
+_*Beta Test Group:* https://chat.whatsapp.com/Fd08osh2TvX9WekceXUfuz_
 
 _*Deploy Heroku [PC]*_- https://youtu.be/hH2qZyUjuF4?si=n-N7dJz6DOioDo5b_
 
@@ -156,7 +156,7 @@ https://youtu.be/wfVg3QCFN68?si=qBNrqD4DhHqwlR0_`
             headerType: 4,
             contextInfo: {
                 externalAdReply: {
-                    title: "XLICON-Repo",
+                    title: "Thor-Repo",
                     body: "Easy to Use",
                     thumbnail: log0,
                     mediaType: 4,
@@ -227,8 +227,8 @@ cmd({
 async(Void, citel,text,{isCreator}) => {
 
 if(!isCreator) return citel.reply(tlang().owner);
-let str="*All available themes in XLICON*"
-str+=`  \n1. GOJO\n2. ADAM\n3. AYANOKOJI\n4. DEKU\n5. RENGOKU\n6. GENOS\n7. GABIMARU\n8. GOKU\n9. ERENJAEGER\n10. LUFFY\n11. NARUTO\n12. NEZUKO\n13. PARKER\n14. ZEROTWO\n15. MAKIMA\n16. THOMAS\n17. PATRICK\n\n these are the themes of XLICON Userbot.\_Reply ${prefix}setvar THEME:ZEROTWO`
+let str="*All available themes in Thor*"
+str+=`  \n1. THOR\n2. ADAM\n3. AYANOKOJI\n4. DEKU\n5. RENGOKU\n6. GENOS\n7. GABIMARU\n8. GOKU\n9. ERENJAEGER\n10. LUFFY\n11. NARUTO\n12. NEZUKO\n13. PARKER\n14. ZEROTWO\n15. MAKIMA\n16. THOMAS\n17. PATRICK\n\n these are the themes of XLICON Userbot.\_Reply ${prefix}setvar THEME:ZEROTWO`
 return citel.reply(str)
     
 }
