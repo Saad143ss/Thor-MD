@@ -3,24 +3,24 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════\\
-global.owner = process.env.OWNER_NUMBER || "923184070915"  // Make SURE its Not Be Empty, Else Bot Stoped And Errors,
-global.mongodb = process.env.MONGODB_URI || "mongodb+srv://ahil1:787191784abhi@ahil1.kzr1tt3.mongodb.net/?retrywrites=true&w=majority"
+global.owner = process.env.OWNER_NUMBER || "923156157942"  // Make SURE its Not Be Empty, Else Bot Stoped And Errors,
+global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Thor:Thor@cluster1.0tlyzhm.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
-global.email = 'xheikhsalman4422@gmail.com'
-global.github = 'https://github.com/salmanytofficial/XLICON-MD'
-global.location = 'Lahore Pak'
-global.gurl = 'https://instagram.com/itz_shaikho/' // add your username
-global.sudo = process.env.SUDO || '923184070915' 
-global.devs = '923184070915';
-global.website = 'https://github.com/salmanytofficial/XLICON-MD' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/3c341828d86ee7a89c73f.jpg'
+global.email = 'textnow1pak@gmail.com'
+global.github = 'https://github.com/Saad143ss/Thor-MD'
+global.location = 'Multan Pak'
+global.gurl = 'https://youtube.com/@saadibrahim_900' // add your username
+global.sudo = process.env.SUDO || '923156157942' 
+global.devs = '923156157942';
+global.website = 'https://github.com/Saad143ss/Thor-MD' //wa.me/+91000000000000
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/JsAWXBl.jpeg'
 module.exports = {
   sessionName:  process.env.SESSION_ID ||  " ",  //PUT Session Id Here, 
-  author:  process.env.PACK_AUTHER ||  'XLICON BOT',
-  packname:  process.env.PACK_NAME || 'MADE BY SALMAN AHMAD',
+  author:  process.env.PACK_AUTHER ||  'Thor Md',
+  packname:  process.env.PACK_NAME || 'MADE BY SAAD IBRAHIM',
   
-  botname:   process.env.BOT_NAME === undefined ? "Xlicon-Md" : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'salmanytofficial' : process.env.OWNER_NAME,  
+  botname:   process.env.BOT_NAME === undefined ? "Thor-MD" : process.env.BOT_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? 'Saad143ss' : process.env.OWNER_NAME,  
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
   autoreaction:  process.env.AUTO_REACTION  === undefined ? false : process.env.AUTO_REACTION ,
   antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'nbwoed' : process.env.ANTI_BAD_WORD,
