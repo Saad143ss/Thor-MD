@@ -40,7 +40,7 @@
  
 ## Deployment Methods
 ---
-1.  ***Get [`SESSION ID`](https://replit.com/@) by scanning QR code. And Scan it `Go-to Whatapp>Three dots>Linked Devices`***
+1.  ***Get [`SESSION ID`](https://replit.com/@naveeddogar/Thor-MD-QR?v=1) by scanning QR code. And Scan it `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](Coming...).***
 3.  ***Click [`FORK`](https://github.com/Saad143ss/Thor-MD/fork) and `Star ⭐ Repository` if you Like thormd Bot.***
 4.  ***Deploy tutorial [`Youtube Video`](Coming...).***
