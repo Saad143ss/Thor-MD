@@ -19,10 +19,10 @@
 
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : XLICON-MD
+   * @project_name : Thor-MD
    * @author : Suhail Tech Info
    * @youtube : https://www.youtube.com/SuhailTechInfo
-   * @description : XLICON-MD ,A Multi-functional whatsapp user bot.
+   * @description : Thor-MD ,A Multi-functional whatsapp user bot.
    * @version 1.0.1
 *
    * Licensed under the  GPL-3.0 License;
