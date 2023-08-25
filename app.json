@@ -1,14 +1,14 @@
 {
-  "name": "XLICON MD",
+  "name": "Thor MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/3c341828d86ee7a89c73f.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Xlicon Bot", "Xlicon","Xlicon MD","theme bot","multi device","baileys","Profilecorruptederror"],
+  "logo": "https://i.imgur.com/JsAWXBl.jpeg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Thor Bot", "Thor","Thor MD","theme bot","multi device","baileys","Profilecorruptederror"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME",
-      "value": "SalmanYt"
+      "value": "SaadIbrahim"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -33,7 +33,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/3c341828d86ee7a89c73f.jpg"
+     "value": "https://telegra.ph/file/32af08151098f5785efed.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -70,10 +70,10 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "Put Owner Number here"
+       "value": "923156157942"
   },
    "SESSION_ID": {
-    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to XLICON-MD Github Repo U can find the Scanner Option"
+    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to Thor-MD Github Repo U can find the Scanner Option"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -82,7 +82,7 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb+srv://ahil1:787191784abhi@ahil1.kzr1tt3.mongodb.net/?retrywrites=true&w=majority"
+    "value": "mongodb+srv://Thor:Thor@cluster1.0tlyzhm.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are GOJO,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
@@ -99,7 +99,7 @@
   },
   "PACK_AUTHOR": {
     "description": "PUT STICKER AUTHER NAME",
-    "value": "XLICON"
+    "value": "ThorMD"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
