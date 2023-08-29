@@ -4,7 +4,7 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 //═══════[Required Variables]════════\\
 global.owner = process.env.OWNER_NUMBER || "923156157942"  // Make SURE its Not Be Empty, Else Bot Stoped And Errors,
-global.mongodb = process.env.MONGODB_URI || "mongodb+srv://Thor:Thor@cluster1.0tlyzhm.mongodb.net/?retryWrites=true&w=majority"
+global.mongodb = process.env.MONGODB_URI || "mongodb+srv://thormd:UXEYZvjnC0phAg9V@cluster0.if72rxv.mongodb.net/?retryWrites=true&w=majority"
 global.port= process.env.PORT || 5000
 global.email = 'textnow1pak@gmail.com'
 global.github = 'https://github.com/Saad143ss/Thor-MD'
