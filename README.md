@@ -54,7 +54,7 @@
 
 # ```This Is Public MongoDB Key.!```
 ```
-mongodb+srv://Thor:Thor@cluster1.0tlyzhm.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://thormd:UXEYZvjnC0phAg9V@cluster0.if72rxv.mongodb.net/?retryWrites=true&w=majority
 ```
 ---
 
