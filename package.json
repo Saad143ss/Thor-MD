@@ -9,7 +9,7 @@
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name Thor",
                 "stop": "pm2 stop Thor"
                 },
-               "author": "SaadIbrahim",
+               "author": "Saad143ss",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
