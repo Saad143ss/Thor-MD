@@ -2,7 +2,7 @@
   "name": "XLICON MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/3c341828d86ee7a89c73f.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Xlicon Bot", "Xlicon","Xlicon MD","theme bot","multi device","baileys","Profilecorruptederror"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Thor Bot", "Thor","Thor MD","theme bot","multi device","baileys","Saad143ss "],
   "success_url": "/",
   "stack": "container",
 "env": {
@@ -77,7 +77,7 @@
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
-       "value": "https://gurugpt.cyclic.app/dalle?prompt=elon%20musk&model=art",
+       "value": "",
        "required" :false
   },
   "MONGODB_URI": {
@@ -86,7 +86,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are GOJO,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "GOJO"
+     "value": "THOR"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -99,7 +99,7 @@
   },
   "PACK_AUTHOR": {
     "description": "PUT STICKER AUTHER NAME",
-    "value": "XLICON"
+    "value": "Thor"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
