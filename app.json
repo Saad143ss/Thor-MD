@@ -1,14 +1,14 @@
 {
-  "name": "XLICON MD",
+  "name": "Thor MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/3c341828d86ee7a89c73f.jpg",
+  "logo": "https://i.imgur.com/JsAWXBl.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Thor Bot", "Thor","Thor MD","theme bot","multi device","baileys","Saad143ss "],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME",
-      "value": "SalmanYt"
+      "value": "Saad Ibrahim"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
