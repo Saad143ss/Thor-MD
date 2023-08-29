@@ -82,7 +82,7 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb+srv://Thor:Thor@cluster1.0tlyzhm.mongodb.net/?retryWrites=true&w=majority"
+    "value": "mongodb+srv://thormd:UXEYZvjnC0phAg9V@cluster0.if72rxv.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are GOJO,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
