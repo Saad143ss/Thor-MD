@@ -7,7 +7,7 @@
                "license": "GPL-3.0",
    "scripts": {
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name Thor",
-                "stop": "pm2 stop Thot"
+                "stop": "pm2 stop Thor"
                 },
                "author": "SaadIbrahim",
               "dependencies": {
