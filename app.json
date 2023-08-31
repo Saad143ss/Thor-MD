@@ -1,14 +1,14 @@
-{
-  "name": "XLICON MD",
+q{
+  "name": "Thor MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/3c341828d86ee7a89c73f.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Xlicon Bot", "Xlicon","Xlicon MD","theme bot","multi device","baileys","Profilecorruptederror"],
+  "logo": "https://i.imgur.com/JsAWXBl.jpeg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Thor Bot", "Thor","Thor MD","theme bot","multi device","baileys","Profilecorruptederror"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME",
-      "value": "ProfileCorruptedError"
+      "value": "Saadibrahim"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -33,7 +33,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/3c341828d86ee7a89c73f.jpg"
+     "value": "https://telegra.ph/file/dd2d0b86c758785d3fd3d.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -86,7 +86,7 @@
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are GOJO,ZEROTWO,NEZUKO,LUFFY,GOKU and many more..",
-     "value": "GOJO"
+     "value": "THOR"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -99,7 +99,7 @@
   },
   "PACK_AUTHOR": {
     "description": "PUT STICKER AUTHOR NAME",
-    "value": "XLICON-MD"
+    "value": "Thor-MD"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
