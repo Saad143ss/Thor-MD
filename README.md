@@ -38,7 +38,7 @@
 
   
  
-## Deployment Methods
+## Deployment Method
 ---
 1.  ***Get [`SESSION ID`](https://replit.com/@naveeddogar/Thor-MD-Qr?v=1) by scanning QR code. And Scan it `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](Coming...).***
